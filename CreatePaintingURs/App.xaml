@@ -1,0 +1,65 @@
+﻿<Application x:Class="Microsoft.Kinect.Samples.KinectPaint.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Microsoft.Kinect.Samples.KinectPaint"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Skins/GlobalStyles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style x:Key="ColorListboxStyle"
+                   TargetType="{x:Type ListBox}">
+                <Setter Property="ItemsPanel">
+                    <Setter.Value>
+                        <ItemsPanelTemplate>
+                            <local:FocusingStackPanel Width="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=ActualWidth}" />
+                        </ItemsPanelTemplate>
+                    </Setter.Value>
+                </Setter>
+                
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate>
+                            <Grid Background="Transparent">
+                                <ItemsPresenter />
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+
+                <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Hidden"/>
+
+                <Setter Property="VerticalContentAlignment" Value="Top" />
+
+                <Setter Property="ItemTemplate">
+                    <Setter.Value>
+                        <DataTemplate>
+                            <Grid Style="{StaticResource ToolRootPanelStyle}">
+                            </Grid>
+                        </DataTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="ItemContainerStyle">
+                    <Setter.Value>
+                        <Style TargetType="{x:Type ListBoxItem}">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate>
+                                        <Border Width="150" Height="100" Margin="0">
+                                            <Border.Background>
+                                                <SolidColorBrush Color="{Binding}" />
+                                            </Border.Background>
+                                        </Border>
+
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

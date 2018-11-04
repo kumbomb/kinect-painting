@@ -1,0 +1,520 @@
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Resources\wood.jpg
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\paint-76924\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Resources\wood.jpg
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\CPU\2014-10-28-1913\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Resources\wood.jpg
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\CPU\2014-10-28-2128\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\PI\Desktop\kinect_update\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+G:\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+G:\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.exe
+G:\kinect_update\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+G:\kinect_update\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+G:\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+G:\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+G:\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\kinect_update\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+G:\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+G:\kinect_update\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\App.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\App.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+G:\kinect_update\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Tutorial.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Tutorial.baml
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\PI\Desktop\키넥트 최신\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\키넥트 최신\키넥트 최신\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\PI\Desktop\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\TutorialStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\PI\Desktop\키넥트 최신 (3)\키넥트 최신 (2)\키넥트 최신\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\FirstDisplay.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\FirstDisplay.g.cs
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.baml
+C:\Users\USER\Desktop\2014-11-19 키넥트 8주\키넥트 최신\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\FirstDisplay.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\FirstDisplay.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\PI\Desktop\12-4 2309\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\FirstDisplay.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\FirstDisplay.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\USER\Desktop\12-5 1228\12-4 2309\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\KinectPaint.exe.config
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\KinectPaint.exe
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\KinectPaint.pdb
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\en-US\KinectPaint.resources.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\KinectPaint.exe.CodeAnalysisLog.xml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\FirstDisplay.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\App.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\FirstDisplay.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\MainWindow.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Skins\GlobalStyles.baml
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint.g.en-US.resources
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\en-US\KinectPaint.resources.dll
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\seongju\Desktop\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csprojResolveAssemblyReference.cache
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectCursor.baml
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Skins\CursorStyles.baml
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\FirstDisplay.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\HowToUsePopup.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\ConfirmationPopup.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Popups\LoadPopup.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\App.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_Content.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.cache
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint_MarkupCompile.lref
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\Microsoft.Kinect.Samples.KinectPaint.Properties.Resources.resources
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\CreatePaintingURs.csproj.GenerateResource.Cache
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint.exe
+C:\Users\ajana\Desktop\CBNU     학년별자료\CBNU     학년별자료\2학년\2학기\인간상호\8조 최종\CPU 마지막 수정판(에러 조금 수정해야된다)\CreatePaintingURs\obj\x86\Debug\KinectPaint.pdb

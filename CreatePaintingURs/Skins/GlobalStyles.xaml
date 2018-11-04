@@ -1,0 +1,554 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Microsoft.Kinect.Samples.KinectPaint"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:Double x:Key="ToolHeight">85.0</sys:Double>
+    <sys:Double x:Key="ToolWidth">120.0</sys:Double>
+
+    <SolidColorBrush x:Key="PrimaryBrush"
+                     Color="SkyBlue"/>
+
+    <SolidColorBrush x:Key="SecondaryBrush"
+                     Color="Black" />
+
+    <SolidColorBrush x:Key="SelectSizeandBrush"
+                     Color="Lavender" />
+
+    <SolidColorBrush x:Key="CanvasBackgroundBrush"
+                     Color="#FFE9E9E9" />
+
+    <ImageBrush ImageSource="/KinectPaint;component/Resources/background.jpg"
+                x:Key="MainBackgroundBrush" />
+
+    <local:VisibleIfPresentConverter x:Key="VisibleIfPresent" />
+
+    <Style x:Key="MainCanvasStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Background"
+                Value="White" />
+        <Setter Property="Margin"
+                Value="0,30" />
+    </Style>
+
+    <Style x:Key="PopupContentControlStyle"
+           TargetType="{x:Type ContentControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ContentControl}">
+                    <Grid Background="#BB000000"
+                          Visibility="{TemplateBinding Content, Converter={StaticResource VisibleIfPresent}}">
+                        <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center" />
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="KinectErrorTextStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="Foreground"
+                Value="BLUE" />
+        <Setter Property="FontSize"
+                Value="20" />
+        <Setter Property="FontFamily"
+                Value="Segoe UI" />
+        <Setter Property="FontWeight"
+                Value="Bold" />
+        <Setter Property="Margin"
+                Value="0,3,0,0" />
+       
+    </Style>
+
+    <Style x:Key="LabelStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily"
+                Value="Segoe UI Semibold" />
+        <Setter Property="FontSize"
+                Value="24" />
+        <Setter Property="Foreground"
+                Value="White" />
+        <Setter Property="Margin"
+                Value="15,0" />
+        <Setter Property="TextWrapping"
+                Value="Wrap" />
+    </Style>
+
+    <Style TargetType="{x:Type TextBlock}"
+           x:Key="ToolLabelStyle">
+        <Setter Property="HorizontalAlignment"
+                Value="Left" />
+        <Setter Property="VerticalAlignment"
+                Value="Bottom" />
+        <Setter Property="Margin"
+                Value="5,0,0,5" />
+        <Setter Property="FontFamily"
+                Value="Segoe UI Semibold" />
+        <Setter Property="FontSize"
+                Value="20" />
+        <Setter Property="Foreground"
+                Value="{StaticResource SecondaryBrush}" />
+    </Style>
+
+    <Style x:Key="LoadPopUpGridStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Background"
+                Value="{StaticResource PrimaryBrush}" />
+        <Setter Property="Width"
+                Value="1100" />
+        <Setter Property="Height"
+                Value="500" />
+    </Style>
+
+    <DataTemplate DataType="{x:Type local:ArchivedImage}"
+                  x:Key="ArchivedImageTemplate">
+        <WrapPanel VerticalAlignment="Top"
+                    Background="#00000000"
+                    Margin="10,0,8,20"
+                    Width="100">
+            <Border Background="White"
+                    Height="130">
+                <Image Source="{Binding Image}"
+                       Stretch="Uniform"
+                       Height="Auto" />
+            </Border>
+            <TextBlock Text="{Binding CreateTimeString}"
+                       FontSize="15"
+                       FontFamily="Malgun Gothic"
+                       Foreground="Black" />
+        </WrapPanel>
+    </DataTemplate>
+
+    <Style x:Key="ConfirmationPopUpGridStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Background"
+                Value="{StaticResource PrimaryBrush}" />
+        <Setter Property="Width"
+                Value="570" />
+        <Setter Property="Height"
+                Value="275" />
+    </Style>
+
+    <Style x:Key="PopupMessageTextStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="Foreground"
+                Value="{StaticResource SecondaryBrush}" />
+        <Setter Property="FontFamily"
+                Value="Segoe WP Light" />
+        <Setter Property="FontSize"
+                Value="20" />
+        <Setter Property="VerticalAlignment"
+                Value="Top" />
+        <Setter Property="HorizontalAlignment"
+                Value="Left" />
+        <Setter Property="TextAlignment"
+                Value="Left" />
+        <Setter Property="TextWrapping"
+                Value="Wrap" />
+        <Setter Property="Margin"
+                Value="30,-12,0,0" />
+    </Style>
+
+    <Style x:Key="SaveMessageTextStyle"
+           TargetType="{x:Type TextBlock}"
+           BasedOn="{StaticResource PopupMessageTextStyle}">
+        <Setter Property="VerticalAlignment"
+                Value="Center" />
+    </Style>
+
+    <Style x:Key="SaveMessageGridStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Width"
+                Value="430" />
+        <Setter Property="Height"
+                Value="160" />
+        <Setter Property="Background"
+                Value="{StaticResource PrimaryBrush}" />
+    </Style>
+
+    <Style x:Key="MessagePanelStyle"
+           TargetType="{x:Type StackPanel}">
+        <Setter Property="Margin"
+                Value="35,0,0,0" />
+        <Setter Property="VerticalAlignment"
+                Value="Center" />
+    </Style>
+
+    <Style x:Key="RightButtonPanelStyle"
+           TargetType="{x:Type Panel}">
+        <Setter Property="HorizontalAlignment"
+                Value="Left" />
+        <Setter Property="Margin"
+                Value="15,0,0,0" />
+    </Style>
+
+    <Style x:Key="ButtonIconStyle"
+           TargetType="{x:Type Image}">
+        <Setter Property="Width"
+                Value="300" />
+        <Setter Property="Height"
+                Value="180" />
+        <Setter Property="Stretch"
+                Value="Uniform" />
+        <Setter Property="VerticalAlignment"
+                Value="Top" />
+        <Setter Property="Margin"
+                Value="0,10,0,0" />
+    </Style>
+
+    <ControlTemplate x:Key="KinectButtonTemplate"
+                     TargetType="{x:Type Button}">
+        <Grid x:Name="Root"
+              RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform />
+                    <TranslateTransform />
+                </TransformGroup>
+            </Grid.RenderTransform>
+
+            <Rectangle Fill="{TemplateBinding Background}"
+                       Stroke="{TemplateBinding BorderBrush}" />
+
+            <ContentPresenter />
+
+            <TextBlock Text="{TemplateBinding Tag}"
+                       Style="{StaticResource ToolLabelStyle}" />
+        </Grid>
+
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsPressed"
+                     Value="True">
+                <Setter Property="RenderTransform"
+                        TargetName="Root">
+                    <Setter.Value>
+                        <ScaleTransform ScaleX="0.9"
+                                        ScaleY="0.9" />
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <Style x:Key="KinectButtonStyle"
+           TargetType="{x:Type Button}">
+        <Setter Property="Width"
+                Value="{StaticResource ToolWidth}" />
+        <Setter Property="Height"
+                Value="{StaticResource ToolHeight}" />
+        <Setter Property="Template"
+                Value="{StaticResource KinectButtonTemplate}" />
+        <Setter Property="Background"
+                Value="{StaticResource PrimaryBrush}" />
+        <Setter Property="BorderBrush"
+                Value="{x:Null}" />
+        <Setter Property="Margin"
+                Value="0,0,10,10" />
+    </Style>
+
+    <ControlTemplate x:Key="MetroButtonTemplate"
+                     TargetType="{x:Type Button}">
+        <Border BorderThickness="{TemplateBinding BorderThickness}"
+                BorderBrush="{TemplateBinding BorderBrush}"
+                Background="{TemplateBinding Background}">
+            <ContentPresenter HorizontalAlignment="Center"
+                              VerticalAlignment="Center"
+                              Margin="0,0,0,6" />
+        </Border>
+    </ControlTemplate>
+
+    <Style x:Key="MetroButtonStyle"
+           TargetType="{x:Type Button}">
+        <Setter Property="Width"
+                Value="200" />
+        <Setter Property="Height"
+                Value="55" />
+        <Setter Property="FontSize"
+                Value="20" />
+        <Setter Property="Background"
+                Value="#00000000" />
+        <Setter Property="BorderBrush"
+                Value="{StaticResource SecondaryBrush}" />
+        <Setter Property="Foreground"
+                Value="{StaticResource SecondaryBrush}" />
+        <Setter Property="BorderThickness"
+                Value="4" />
+        <Setter Property="Template"
+                Value="{StaticResource MetroButtonTemplate}" />
+        <Setter Property="FontFamily"
+                Value="Segoe UI Semibold" />
+    </Style>
+
+    <Style x:Key="ToolItemStyle"
+           TargetType="{x:Type ListBoxItem}">
+        <Setter Property="Background"
+                Value="{StaticResource SelectSizeandBrush}" />
+        <Setter Property="Foreground"
+                Value="{StaticResource SecondaryBrush}" />
+        <Setter Property="Margin"
+                Value="0,0,10,10" />
+
+        <Style.Triggers>
+            <Trigger Property="Selector.IsSelected"
+                     Value="True">
+                <Setter Property="Background"
+                        Value="{StaticResource SecondaryBrush}" />
+                <Setter Property="Foreground"
+                        Value="{StaticResource PrimaryBrush}" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="ToolRootPanelStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Width"
+                Value="100" />
+        <Setter Property="Height"
+                Value="48" />
+    </Style>
+
+    <Style x:Key="ToolRootPanelBrushesStyle"
+           TargetType="{x:Type Grid}">
+        <Setter Property="Width"
+                Value="300" />
+        <Setter Property="Height"
+                Value="200" />
+    </Style>
+
+    <ControlTemplate x:Key="BrushItemTemplate"
+                     TargetType="{x:Type ListBoxItem}">
+        <Grid Style="{StaticResource ToolRootPanelBrushesStyle}"
+              Background="{TemplateBinding Background}">
+            <Image x:Name="ImageUnselected"
+                   Style="{StaticResource ButtonIconStyle}"
+                   Source="{Binding Icon}" />
+
+            <Image x:Name="ImageSelected"
+                   Style="{StaticResource ButtonIconStyle}"
+                   Source="{Binding IconSelected}"
+                   Visibility="Collapsed" />
+
+            <TextBlock Text="{Binding FriendlyName}"
+                       Style="{StaticResource ToolLabelStyle}"
+                       Foreground="{TemplateBinding Foreground}" />
+        </Grid>
+
+        <ControlTemplate.Triggers>
+            <Trigger Property="Selector.IsSelected"
+                     Value="True">
+                <Setter Property="Visibility"
+                        TargetName="ImageUnselected"
+                        Value="Collapsed" />
+                <Setter Property="Visibility"
+                        TargetName="ImageSelected"
+                        Value="Visible" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <Style x:Key="BrushItemStyle"
+           TargetType="{x:Type ListBoxItem}"
+           BasedOn="{StaticResource ToolItemStyle}">
+        <Setter Property="Template"
+                Value="{StaticResource BrushItemTemplate}" />
+    </Style>
+
+    <ControlTemplate x:Key="BrushSizeItemTemplate"
+                     TargetType="{x:Type ListBoxItem}">
+        <Grid Style="{StaticResource ToolRootPanelStyle}"
+              Background="{TemplateBinding Background}">
+            <TextBlock Text="{Binding StringFormat=\{0:N0\}}"
+                       Style="{StaticResource ToolLabelStyle}"
+                       Foreground="{TemplateBinding Foreground}" />
+        </Grid>
+    </ControlTemplate>
+
+    <Style x:Key="BrushSizeItemStyle"
+           TargetType="{x:Type ListBoxItem}"
+           BasedOn="{StaticResource ToolItemStyle}">
+        <Setter Property="Template"
+                Value="{StaticResource BrushSizeItemTemplate}" />
+    </Style>
+
+    <Style x:Key="KinectListBoxStyle"
+           TargetType="{x:Type local:KinectPaintListBox}">
+        <Setter Property="Background"
+                Value="{x:Null}" />
+        <Setter Property="BorderBrush"
+                Value="{x:Null}" />
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.VerticalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.CanContentScroll"
+                Value="False" />
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True"           
+                               Width="120"
+                               />
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="KinectListBoxStyleBrush"
+           TargetType="{x:Type local:KinectPaintListBox}">
+        <Setter Property="Background"
+                Value="{x:Null}" />
+        <Setter Property="BorderBrush"
+                Value="{x:Null}" />
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.VerticalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.CanContentScroll"
+                Value="False" />
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True"
+                               Width="1000" />
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="LoadItemStyle"
+           TargetType="{x:Type local:KinectPaintListBox}">
+        <Setter Property="Background"
+                Value="{x:Null}" />
+        <Setter Property="BorderBrush"
+                Value="{x:Null}" />
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.VerticalScrollBarVisibility"
+                Value="Disabled" />
+        <Setter Property="ScrollViewer.CanContentScroll"
+                Value="False" />
+        <Setter Property="ItemsPanel">
+            <Setter.Value>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True"
+                               Width="1000" />
+                </ItemsPanelTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ToolListBoxStyle"
+           TargetType="{x:Type local:KinectPaintListBox}"
+           BasedOn="{StaticResource KinectListBoxStyle}">
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+    </Style>
+
+    <Style x:Key="ToolListBoxStyle2"
+           TargetType="{x:Type local:KinectPaintListBox}"
+           BasedOn="{StaticResource KinectListBoxStyleBrush}">
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+    </Style>
+    
+    <Style x:Key="LoadListBoxStyle"
+           TargetType="{x:Type local:KinectPaintListBox}"
+           BasedOn="{StaticResource KinectListBoxStyle}">
+        <Setter Property="Margin"
+                Value="0,49,0,0" />
+        <Setter Property="Grid.ColumnSpan"
+                Value="2" />
+    </Style>
+
+    <Style x:Key="LoadImageStyle"
+           TargetType="{x:Type local:KinectPaintListBox}"
+           BasedOn="{StaticResource LoadItemStyle}">
+        <Setter Property="Margin"
+                Value="0,49,0,0" />
+        <Setter Property="Grid.ColumnSpan"
+                Value="2" />
+    </Style>
+
+    <Style x:Key="KinectCheckBoxTextStyle"
+           TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily"
+                Value="Segoe UI Semibold" />
+        <Setter Property="FontSize"
+                Value="40" />
+        <Setter Property="Margin"
+                Value="0,0,0,13" />
+    </Style>
+
+    <ControlTemplate x:Key="KinectCheckBoxTemplate"
+                     TargetType="{x:Type CheckBox}">
+        <Grid Background="{TemplateBinding Background}">
+            <TextBlock x:Name="CheckedContent"
+                       HorizontalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="{TemplateBinding Content}"
+                       VerticalAlignment="Center"
+                       Style="{StaticResource KinectCheckBoxTextStyle}"
+                       Foreground="{TemplateBinding Foreground}"
+                       Visibility="Collapsed" />
+            <TextBlock x:Name="UnecheckedContent"
+                       HorizontalAlignment="Center"
+                       TextWrapping="Wrap"
+                       Text="{TemplateBinding Tag}"
+                       VerticalAlignment="Center"
+                       Style="{StaticResource KinectCheckBoxTextStyle}"
+                       Foreground="{TemplateBinding Foreground}"
+                       Visibility="Visible" />
+        </Grid>
+
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsChecked"
+                     Value="True">
+                <Setter Property="Visibility"
+                        TargetName="CheckedContent"
+                        Value="Visible" />
+                <Setter Property="Visibility"
+                        TargetName="UnecheckedContent"
+                        Value="Collapsed" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <Style x:Key="KinectCheckBoxStyle"
+           TargetType="{x:Type CheckBox}">
+        <Setter Property="Template"
+                Value="{StaticResource KinectCheckBoxTemplate}" />
+        <Setter Property="Width"
+                Value="{StaticResource ToolWidth}" />
+        <Setter Property="Height"
+                Value="{StaticResource ToolHeight}" />
+        <Setter Property="Background"
+                Value="{StaticResource PrimaryBrush}" />
+        <Setter Property="BorderBrush"
+                Value="{x:Null}" />
+        <Setter Property="Foreground"
+                Value="{StaticResource SecondaryBrush}" />
+        <Setter Property="HorizontalAlignment"
+                Value="Left" />
+        <Setter Property="Margin"
+                Value="13,0,0,0" />
+
+        <Style.Triggers>
+            <Trigger Property="IsChecked"
+                     Value="True">
+                <Setter Property="Background"
+                        Value="{StaticResource SecondaryBrush}" />
+                <Setter Property="Foreground"
+                        Value="{StaticResource PrimaryBrush}" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>
